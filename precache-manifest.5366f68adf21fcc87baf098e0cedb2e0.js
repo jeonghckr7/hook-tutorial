@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bbe62412ca2d1dfbceb429c058c1301",
+    "revision": "c09ff61fb7d58b3dfba88ac366306523",
     "url": "/hook-tutorial/index.html"
   },
   {
-    "revision": "ec6e17608ca83a5cbf79",
+    "revision": "7550a0f84416da83bef3",
     "url": "/hook-tutorial/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hook-tutorial/static/js/2.e6cc16b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec6e17608ca83a5cbf79",
-    "url": "/hook-tutorial/static/js/main.16092f46.chunk.js"
+    "revision": "7550a0f84416da83bef3",
+    "url": "/hook-tutorial/static/js/main.b61be4f2.chunk.js"
   },
   {
     "revision": "5a2102386c79252d08da",

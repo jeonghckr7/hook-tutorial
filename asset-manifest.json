@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hook-tutorial/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/hook-tutorial/static/js/main.16092f46.chunk.js",
-    "main.js.map": "/hook-tutorial/static/js/main.16092f46.chunk.js.map",
+    "main.js": "/hook-tutorial/static/js/main.b61be4f2.chunk.js",
+    "main.js.map": "/hook-tutorial/static/js/main.b61be4f2.chunk.js.map",
     "runtime-main.js": "/hook-tutorial/static/js/runtime-main.cbd16f4f.js",
     "runtime-main.js.map": "/hook-tutorial/static/js/runtime-main.cbd16f4f.js.map",
     "static/js/2.e6cc16b3.chunk.js": "/hook-tutorial/static/js/2.e6cc16b3.chunk.js",
     "static/js/2.e6cc16b3.chunk.js.map": "/hook-tutorial/static/js/2.e6cc16b3.chunk.js.map",
     "index.html": "/hook-tutorial/index.html",
-    "precache-manifest.7ed8e4e1d1549ffc523a2c72fa574576.js": "/hook-tutorial/precache-manifest.7ed8e4e1d1549ffc523a2c72fa574576.js",
+    "precache-manifest.5366f68adf21fcc87baf098e0cedb2e0.js": "/hook-tutorial/precache-manifest.5366f68adf21fcc87baf098e0cedb2e0.js",
     "service-worker.js": "/hook-tutorial/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/hook-tutorial/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.e6cc16b3.chunk.js.LICENSE.txt": "/hook-tutorial/static/js/2.e6cc16b3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cbd16f4f.js",
     "static/js/2.e6cc16b3.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.16092f46.chunk.js"
+    "static/js/main.b61be4f2.chunk.js"
   ]
 }
